@@ -1,0 +1,6 @@
+{
+    "github_repo_url": "ssh://git@github.com/daikw/AutoGPT.git",
+    "timestamp": "2023-11-09T04:48:10.518941",
+    "commit_hash_to_benchmark": "6c84035c7e0586e2c16c9cc8b1f2540588b6a7ba",
+    "branch_to_benchmark": "master"
+}
